@@ -1,6 +1,10 @@
 <template>
   <view>
+<<<<<<< HEAD
     home
+=======
+    Home
+>>>>>>> tabbar
   </view>
 </template>
 
